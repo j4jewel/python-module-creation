@@ -56,3 +56,4 @@ validator.check(password='abc123#$#')  -- using the module
 True                                   -- result
 ```
 
+In this way we can create modules and use it in any other scripts.
